@@ -4,11 +4,6 @@
 
 More about me on my [CV](https://erolgelbul.com).
 
-## Favorites
-* Efficient Python programming.
-* Clean and quality coding.
-* Autonomous drones.
-
 ## Plans for 2022
 * Contribute to openpilot.
 * Complete my drone project.
