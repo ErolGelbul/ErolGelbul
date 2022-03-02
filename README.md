@@ -12,7 +12,14 @@ More about me on my [CV](https://erolgelbul.com).
 ## Plans for 2022
 * Contribute to openpilot.
 * Complete my drone project.
-* Be proficient in quantum computing. 
+* Be proficient in quantum computing.
+
+## Blogs
+* [Project Blog](https://erolgelbul.com/project-blog)
+* [Book Blog](https://erolgelbul.com/book-blog)
+* [SLAM Blog](https://erolgelbul.com/slam-blog)
+* [Problem Blog](https://erolgelbul.com/problem-blog)
+
 
 ### Socials:
 [![website](./img/globe-light.svg)](https://erolgelbul.com#gh-light-mode-only)
