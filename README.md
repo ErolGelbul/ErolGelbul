@@ -3,7 +3,7 @@ Hey there! If you would like to learn more about me, check out my [CV](https://e
 
 ## Goals for 2022
 * Contribute to openpilot.
-* Complete my drone project.
+* Complete my fully autonomous drone project.
 * Be proficient in quantum computing.
 
 ## Blogs
