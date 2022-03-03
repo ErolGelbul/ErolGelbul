@@ -1,7 +1,7 @@
 # Software Developer
 Hey there! If you would like to learn more about me, check out my [CV](https://erolgelbul.com).
 
-## Plans for 2022
+## Goals for 2022
 * Contribute to openpilot.
 * Complete my drone project.
 * Be proficient in quantum computing.
