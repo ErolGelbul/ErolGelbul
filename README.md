@@ -37,10 +37,7 @@ Hey there! If you would like to learn more about me, check out my [CV](https://e
 <br />
 
 
-<h2 align="center"> GitHub Statistics </h2>
-<br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=ErolGelbul&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+
 
 
 
