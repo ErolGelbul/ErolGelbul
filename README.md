@@ -1,13 +1,11 @@
 # Software Developer
 Hey there! If you would like to learn more about me, check out my [CV](https://erolgelbul.com).
 
+
 ## Goals for 2022
 * Contribute to openpilot.
 * Be proficient in quantum computing.
 * Complete my fully autonomous drone project.
-
-## Blogs
-[Project Blog](https://erolgelbul.com/project-blog) ~ [Book Blog](https://erolgelbul.com/book-blog) ~ [SLAM Blog](https://erolgelbul.com/slam-blog) ~ [Problem Blog](https://erolgelbul.com/problem-blog)
 
 
 ### Socials:
@@ -25,23 +23,131 @@ Hey there! If you would like to learn more about me, check out my [CV](https://e
 &nbsp;&nbsp;
 
 
+## Blogs
+[Project Blog](https://erolgelbul.com/project-blog) ~ [Book Blog](https://erolgelbul.com/book-blog) ~ [SLAM Blog](https://erolgelbul.com/slam-blog) ~ [Problem Blog](https://erolgelbul.com/problem-blog)
 
 
-<h3 align="left">Technologies:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  
+
+<br>
+
+<h2 align="left" id="macropower-tech">Tech Experience</h2>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="./img/tech/python.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://uk.mathworks.com/products/matlab.html">
+        <img src="./img/tech/matlab.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>MATLAB
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.cplusplus.com/">
+        <img src="./img/tech/cpp.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.djangoproject.com/">
+        <img src="./img/tech/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="https://numpy.org/">
+        <img src="./img/tech/numpy.svg" width="48" height="48" alt="Numpy" />
+      </a>
+      <br>Numpy
+    </td>
+    <td align="center" width="96">
+      <a href="https://pandas.pydata.org/">
+        <img src="./img/tech/pandas.svg" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="https://matplotlib.org/" >
+        <img src="./img/tech/matplotlib.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <a href="https://scikit-learn.org/stable/">
+        <img src="./img/tech/scikit.svg" width="48" height="48" alt="Scikit" />
+      </a>
+      <br>Scikit
+    </td>
+    <td align="center" width="96">
+      <a href="https://pytorch.org/">
+        <img src="./img/tech/pytorch2.svg" width="48" height="48" alt="PyTorch" />
+      </a>
+      <br>PyTorch
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="https://opencv.org/" >
+        <img src="./img/tech/opencv.svg" width="48" height="48" alt="OpenCV" />
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" >
+        <img src="./img/tech/sqldeveloper.svg" width="48" height="48" alt="SQL Developer" />
+      </a>
+      <br>SQL Developer
+    </td>
+    <td align="center"  width="96">
+      <a href="https://www.mysql.com/">
+        <img src="./img/tech/mysql2.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center"  width="96">
+      <a href="https://git-scm.com/">
+        <img src="./img/tech/git.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/">
+        <img src="./img/tech/docker.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="https://www.linux.org/">
+        <img src="./img/tech/linux.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.arduino.cc/" >
+        <img src="./img/tech/arduino2.svg" width="48" height="48" alt="Arduino" />
+      </a>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" >
+        <img src="./img/tech/excel.svg" width="48" height="48" alt="Excel" />
+      </a>
+      <br>Excel
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.vim.org/" >
+        <img src="./img/tech/vim.svg" width="48" height="48" alt="Vim" />
+      </a>
+      <br>Vim
+    </td>
+  </tr>
+</table>
 
 <br />
 <br />
-
-
-
-
-
-
-
 
 </details>
 
@@ -49,3 +155,6 @@ Hey there! If you would like to learn more about me, check out my [CV](https://e
 [twitter]: https://twitter.com/ErolGelbul
 [youtube]: https://youtube.com/erolgelbul
 [linkedin]: https://www.linkedin.com/in/erolgelbul/
+
+
+[![Erol's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=erolgelbul&theme=react-dark)](https://github.com/erolgelbul/github-readme-activity-graph)
