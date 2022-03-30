@@ -25,11 +25,7 @@ Hey there! If you would like to learn more about me, check out my [CV](https://e
 
 ## Blogs
 [Project Blog](https://erolgelbul.com/project-blog) ~ [Book Blog](https://erolgelbul.com/book-blog) ~ [SLAM Blog](https://erolgelbul.com/slam-blog) ~ [Problem Blog](https://erolgelbul.com/problem-blog)
-
-
-
 <br>
-
 <h2 align="left" id="macropower-tech">Tech Experience</h2>
 <table>
   <tr>
