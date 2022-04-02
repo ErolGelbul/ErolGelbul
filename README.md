@@ -129,9 +129,9 @@ Hey there! If you would like to learn more about me, check out my [CV](https://e
     </td>
     <td align="center" width="96">
       <a href="https://www.microsoft.com/en-us/microsoft-365/excel" >
-        <img src="./img/tech/excel.svg" width="48" height="48" alt="Excel" />
+        <img src="./img/tech/java.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Excel
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="https://www.vim.org/" >
