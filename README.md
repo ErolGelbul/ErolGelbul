@@ -105,9 +105,9 @@ Hey there! If you would like to learn more about me, check out my [CV](https://e
     </td>
     <td align="center"  width="96">
       <a href="https://git-scm.com/">
-        <img src="./img/tech/git.svg" width="48" height="48" alt="Git" />
+        <img src="./img/tech/asm.svg" width="48" height="48" alt="ASM" />
       </a>
-      <br>Git
+      <br>Assembly 
     </td>
     <td align="center" width="96">
       <a href="https://www.docker.com/">
@@ -117,9 +117,9 @@ Hey there! If you would like to learn more about me, check out my [CV](https://e
     </td>
     <td align="center"  width="96">
       <a href="https://www.linux.org/">
-        <img src="./img/tech/linux.svg" width="48" height="48" alt="Linux" />
+        <img src="./img/tech/c.svg" width="48" height="48" alt="C" />
       </a>
-      <br>Linux
+      <br>C/Embedded
     </td>
     <td align="center" width="96">
       <a href="https://www.arduino.cc/" >
