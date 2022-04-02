@@ -153,4 +153,3 @@ Hey there! If you would like to learn more about me, check out my [CV](https://e
 [linkedin]: https://www.linkedin.com/in/erolgelbul/
 
 
-[![Erol's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=erolgelbul&theme=react-dark)](https://github.com/erolgelbul/github-readme-activity-graph)
