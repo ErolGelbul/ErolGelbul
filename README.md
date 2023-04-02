@@ -154,5 +154,6 @@ Hey there! If you would like to learn more about me, check out my [CV](https://e
 
 
 [![Erol's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=erolgelbul&theme=react-dark)](https://github.com/erolgelbul/github-readme-activity-graph)
+[![Erol's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=erolgelbul)](https://github.com/erolgelbul/github-readme-activity-graph)
 
 
