@@ -152,4 +152,4 @@ Hey there! If you would like to learn more about me, check out my [CV](https://e
 [youtube]: https://youtube.com/erolgelbul
 [linkedin]: https://www.linkedin.com/in/erolgelbul/
 
-[![Erol's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=erolgelbul&theme=dracula)](https://github.com/erolgelbul/github-readme-activity-graph)
+[![Erol's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=erolgelbul&theme=react-dark)](https://github.com/erolgelbul/github-readme-activity-graph)
