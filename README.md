@@ -1,11 +1,12 @@
-# Software Developer
-Hey there! If you would like to learn more about me, check out my [CV](https://erolgelbul.com).
+# Software Engineer
+Hey there! If you would like to learn more about me, check out my [portfolio](https://erolgelbul.com).
 
 
-## Goals for 2022
-* Contribute to openpilot.
-* Be proficient in quantum computing.
-* Complete my fully autonomous drone project.
+## Goals for 2023
+* Contribute to tinygrad.
+* Finish F1 project.
+* Study flight dynamics.
+
 
 
 ### Socials:
@@ -15,16 +16,7 @@ Hey there! If you would like to learn more about me, check out my [CV](https://e
 [![website](./img/youtube-light.svg)](https://youtube.com/erolgelbul#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/erolgelbul#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/erolgelbul#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/erolgelbul#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/erolgelbul#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/erolgelbul#gh-dark-mode-only)
-&nbsp;&nbsp;
 
-
-## Blogs
-[Project Blog](https://erolgelbul.com/project-blog) ~ [Book Blog](https://erolgelbul.com/book-blog) ~ [SLAM Blog](https://erolgelbul.com/slam-blog) ~ [Problem Blog](https://erolgelbul.com/problem-blog)
 <br>
 <h2 align="left" id="macropower-tech">Tech Experience</h2>
 <table>
