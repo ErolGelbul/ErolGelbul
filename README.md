@@ -270,7 +270,7 @@ Click on the icons below to discover my relevant projects.
     </td>
     <td align="center" width="96">
       <a href="https://github.com/ErolGelbul/oil_data_classification">
-        <img src="./img/tech/scikit-learn.svg" width="48" height="48" alt="Scikit-learn" />
+        <img src="./img/tech/scikit-learn.svg" width="48" height="48" alt="Sk-learn" />
       </a>
       <br>Scikit-learn
     </td>
