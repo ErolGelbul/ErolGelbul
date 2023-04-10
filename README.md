@@ -10,7 +10,7 @@ Hey there! If you would like to learn more about me, check out my [portfolio](ht
 
 ## Education
 
-* University of Hertfordshire:
+* University of Hertfordshire
   * BSc Computer Science - First Class 4/4
 * Tarsus American College
   * Dual Diploma - 80/100
